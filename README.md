@@ -5,6 +5,8 @@ TODO:
 - [ ] Simple HTML design (no styling)
 - [ ] JavaScript focusing only on functionality
 - [ ] Styling
-- [ ] Improvements
+- [ ] JS improvements
+- [ ] General improvements
+- [ ] Multiple levels
 - [ ] Final touches
 - [ ] Finished!
